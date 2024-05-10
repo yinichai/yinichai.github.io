@@ -20,7 +20,7 @@
 - 罐罐：![罐罐](photos/wet_food.png)
 - 喷泉：![喷泉](photos/fountain.png)
 - 零食鸡肉条：![零食鸡肉条](photos/treat_chicken_strip.png)
-- 零食冻干：![零食冻干](photos/treat_treeze.png)
+- 零食冻干：![零食冻干](photos/treat_freeze_bite.png)
 - 零食猫条： ![零食猫条](photos/treat_lick.png)
 - 自动喂饭机： ![自动喂饭机](photos/auto_feeder.png)
 - 猫砂： ![猫砂](photos/litter.png)
