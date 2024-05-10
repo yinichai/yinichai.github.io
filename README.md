@@ -15,11 +15,11 @@
 Tel: 02075§72505
 
 ## 图片Reference
-![干粮](photos/dry_food.HEIC)
-![罐罐](photos/wet_food.HEIC)
-![喷泉](photos/fountain.HEIC)
-![零食鸡肉条](photos/treat_chicken_strip.HEIC)
-![零食冻干](photos/treat_treeze.HEIC)
-![零食猫条](photos/treat_lick.HEIC)
-![自动喂饭机](photos/auto_feeder.HEIC)
-![猫砂](photos/litter.HEIC)
+![干粮](photos/dry_food.png)
+![罐罐](photos/wet_food.png)
+![喷泉](photos/fountain.png)
+![零食鸡肉条](photos/treat_chicken_strip.png)
+![零食冻干](photos/treat_treeze.png)
+![零食猫条](photos/treat_lick.png)
+![自动喂饭机](photos/auto_feeder.png)
+![猫砂](photos/litter.png)
