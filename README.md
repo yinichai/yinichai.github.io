@@ -15,6 +15,7 @@
 - Tel: 02075§72505
 
 ## 图片Reference
+下面是图片，猫砂在鞋架旁边，剩下的都在客厅猫爬架下面。
 - ![干粮](photos/dry_food.png)
 - ![罐罐](photos/wet_food.png)
 - ![喷泉](photos/fountain.png)
