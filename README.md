@@ -12,15 +12,15 @@
 ## Vet
 - 如果Pepsi感到不适或者生病 下面是Vet信息
 - [Poplar Vet](https://www.vet.co.uk/)
-- Tel: 02075§72505
+- Tel: 020 7515 2505
 
 ## 图片Reference
 下面是图片，猫砂在鞋架旁边，剩下的都在客厅猫爬架下面。
-- ![干粮](photos/dry_food.png)
-- ![罐罐](photos/wet_food.png)
-- ![喷泉](photos/fountain.png)
-- ![零食鸡肉条](photos/treat_chicken_strip.png)
-- ![零食冻干](photos/treat_freeze_bite.png)
-- ![零食猫条](photos/treat_lick.png)
-- ![自动喂饭机](photos/auto_feeder.png)
-- ![猫砂](photos/litter.png)
+- 干粮：![干粮](photos/dry_food.png)
+- 罐罐：![罐罐](photos/wet_food.png)
+- 喷泉：![喷泉](photos/fountain.png)
+- 零食鸡肉条：![零食鸡肉条](photos/treat_chicken_strip.png)
+- 零食冻干：![零食冻干](photos/treat_freeze_bite.png)
+- 零食猫条： ![零食猫条](photos/treat_lick.png)
+- 自动喂饭机： ![自动喂饭机](photos/auto_feeder.png)
+- 猫砂： ![猫砂](photos/litter.png)
